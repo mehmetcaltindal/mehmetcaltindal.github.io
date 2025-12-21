@@ -23,7 +23,7 @@ title: Mehmet Cagri Altindal
 <div class="card">
   <h2>About</h2>
   <p>
-    Prior to pursuing my PhD, I worked as a Well Completion and Workover Engineer at Turkish Petroleum. I supervised a wide range of operations, including completion, re-completion, workover operations, fishing, ESP-PCP-SRP pump installations, cementing, wellhead installations, deploying various types of permanent and retrievable packers, acidizing, and P&A. I hold a MSc in Petroleum Engineering from the University of Tulsa and a BSc in Petroleum and Natural Gas Engineering from Middle East Technical University.
+    Hi,<br> I am Mehmet. I am a PhD candidate at Norwegian University of Science and Technology (NTNU). Prior to pursuing my PhD, I worked as a Well Completion and Workover Engineer at Turkish Petroleum. I supervised a wide range of operations, including completion, re-completion, workover operations, fishing, ESP-PCP-SRP pump installations, cementing, wellhead installations, deploying various types of permanent and retrievable packers, acidizing, and P&A. I hold a MSc in Petroleum Engineering from the University of Tulsa and a BSc in Petroleum and Natural Gas Engineering from Middle East Technical University.
   </p>
 </div>
 
