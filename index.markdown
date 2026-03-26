@@ -34,6 +34,20 @@ title: Mehmet Cagri Altindal
   </p>
 </div>
 
+<div class="card">
+  <h2>Project Interests</h2>
+  <ul>
+    <li>Drilling</li>
+    <li>Fluid flow</li>
+    <li>Anomaly detection</li>
+    <li>Real-time monitoring</li>
+    <li>Machine learning</li>
+    <li>Agentic AI</li>
+    <li>Hybrid Modeling</li>
+    <li>Adaptive learning</li>
+  </ul>
+</div>
+
 
 <div class="card">
   <h2>Publications</h2>

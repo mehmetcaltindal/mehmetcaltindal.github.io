@@ -1,16 +1,16 @@
 
 - title: "Application of Hybrid Modeling Techniques with AI in Drilling Operations"
   authors: "MC Altindal, A Rasheed, M Tabib, B Lund"
-  venue: in progress
-  year: -
-  link : -
-
+  venue: "in progress"
+  year: ""
+  link: ""
 
 - title: "A Hybrid Physics–Machine Learning Framework for Real-Time Estimation and Forecasting of Equivalent Circulating Density in Drilling Operations"
   authors: "MC Altindal, A Rasheed, M Tabib, R Khosravanian, B Lund, TG Kristiansen"
   venue: "Journal of Petroleum Exploration and Production Technology"
   year: 2026
-  link : in peer review (will be updated)
+  status: "in peer review"
+  link: "https://onepetro.org/SPEGOTS/proceedings-abstract/25GOTS/25GOTS/652751"
 
   link: "https://onepetro.org/SPEGOTS/proceedings-abstract/25GOTS/25GOTS/652751"
 - title: "Online Parameter Calibration in Drilling Hydraulics Model"
